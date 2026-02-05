@@ -1,4 +1,5 @@
 # myFirstPrograme
 developer_mind_set
 <br>
-Author - chandan yadav
+Author - chandan (Appna college)
+
